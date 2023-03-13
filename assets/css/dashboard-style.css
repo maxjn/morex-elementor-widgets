@@ -1,0 +1,49 @@
+#elementor-panel-category-morex {
+  background: #f17756;
+}
+
+#elementor-panel-category-morex .elementor-panel-category-title {
+  color: white;
+  font-weight: bold;
+  font-size: large;
+}
+
+#elementor-panel-category-morex
+  .elementor-element-wrapper
+  .elementor-element
+  .icon
+  .morex-widget:after {
+  content: "Morex";
+  position: absolute;
+  left: 8px;
+  top: 8px;
+  font-size: 9px;
+  padding: 1px 3px;
+  border-radius: 50px;
+  background: #eee;
+}
+
+#elementor-panel-category-morex
+  .elementor-element-wrapper
+  .elementor-element:hover
+  .icon
+  .morex-widget:after {
+  color: #ee5f38;
+}
+
+#elementor-panel-category-morex
+  .elementor-element-wrapper
+  .elementor-element:hover
+  .title {
+  color: #ee5f38;
+}
+
+#elementor-panel-category-morex
+  .elementor-panel
+  .elementor-element-wrapper:hover {
+  transform: scale(1.05);
+}
+
+#elementor-panel-category-morex .elementor-panel-category-items {
+  padding-bottom: 10px;
+}

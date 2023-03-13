@@ -1,0 +1,138 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"Project-Id-Version: Morex Elementor Widgets\n"
+"POT-Creation-Date: 2023-03-13 15:58+0330\n"
+"PO-Revision-Date: 2023-03-13 16:03+0330\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: morex-elementor-widgets.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: \n"
+"Language: fa_IR\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#. Author of the plugin/theme
+#: inc/classes/class-morex-plugin-init.php:134
+msgid "Morex"
+msgstr ""
+
+#: inc/classes/widgets/class-brands.php:28
+msgid "Morex Brands"
+msgstr "مورکس: لیست برند ها"
+
+#: inc/classes/widgets/class-brands.php:123
+#: inc/classes/widgets/class-brands.php:125
+#: inc/classes/widgets/class-brands.php:127
+#: inc/classes/widgets/class-brands.php:167
+#: inc/classes/widgets/class-brands.php:169
+#: inc/classes/widgets/class-brands.php:171
+msgid "Logo"
+msgstr "لوگو"
+
+#: inc/classes/widgets/class-button-primary.php:28
+msgid "Morex Primary Button"
+msgstr "مورکس: دکمه ویژه"
+
+#: inc/classes/widgets/class-button.php:27
+msgid "Morex Button"
+msgstr "مورکس: دکمه"
+
+#: inc/classes/widgets/class-counter.php:29
+msgid "Morex Counter"
+msgstr "مورکس: شمارنده"
+
+#: inc/classes/widgets/class-counter2.php:28
+msgid "Morex Counter2"
+msgstr "مورکس: شمارنده 2"
+
+#: inc/classes/widgets/class-heading.php:28
+msgid "Morex Heading"
+msgstr "مورکس: تیتر"
+
+#: inc/classes/widgets/class-image.php:27
+msgid "Morex Image"
+msgstr "مورکس: تصویر"
+
+#: inc/classes/widgets/class-info2.php:30
+msgid "Morex Info2"
+msgstr "مورکس: اطلاعات 2"
+
+#: inc/classes/widgets/class-infos.php:26
+msgid "Morex Infos List"
+msgstr "مورکس: لیست اطلاعات"
+
+#: inc/classes/widgets/class-paragraph.php:28
+msgid "Morex Paragraph"
+msgstr "مورکس: پاراگراف"
+
+#: inc/classes/widgets/class-portfolio.php:29
+msgid "Morex Portfolio Filter"
+msgstr "مورکس: فیلتر نمونه کار ها"
+
+#: inc/classes/widgets/class-portfolio.php:60
+msgid "No categories"
+msgstr "مورکس: بدون دسته بندی"
+
+#: inc/classes/widgets/class-posts.php:28
+msgid "Morex Posts"
+msgstr "مورکس: پست ها"
+
+#: inc/classes/widgets/class-posts.php:147
+msgid "published in"
+msgstr "منتشر شده در"
+
+#: inc/classes/widgets/class-posts.php:147
+msgid "ago"
+msgstr "پیش"
+
+#: inc/classes/widgets/class-posts.php:154
+msgid "Tags: "
+msgstr "برچسب ها: "
+
+#: inc/classes/widgets/class-resume.php:28
+msgid "Morex Resume"
+msgstr "مورکس: رزومه"
+
+#: inc/classes/widgets/class-search.php:28
+msgid "Morex Search Field"
+msgstr "مورکس: فیلد جستجو"
+
+#: inc/classes/widgets/class-service.php:28
+msgid "Morex Service Box"
+msgstr "مورکس: باکس خدمات"
+
+#: inc/classes/widgets/class-skill.php:30
+msgid "Morex Skill Bar"
+msgstr "مورکس: مهارت"
+
+#: inc/classes/widgets/class-socials.php:28
+msgid "Morex Socials"
+msgstr "مورکس: شبکه های اجتماعی"
+
+#: inc/classes/widgets/class-testimonial.php:28
+msgid "Morex Testimonial"
+msgstr "مورکس: دیدگاه کاربران"
+
+#. Plugin Name of the plugin/theme
+msgid "Morex Elementor Widgets"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://maxjn.ir/plugins/morex-elementor-widgets.zip"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Elementor Widgets from Morex Template"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.rtl-theme.com/author/maxjn/products/"
+msgstr ""
